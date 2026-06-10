@@ -1,4 +1,4 @@
-# 
+# Exclusive Cline plugins. Featuring collaborative-agents and web-scraping — optimized for maximum performance and efficiency.
 
 
 
